@@ -1,0 +1,300 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.wraper {
+  max-width: 1004px;
+  margin: 0px auto;
+  display: flex;
+  flex-direction: column;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+}
+ul {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+  color:grey
+}
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.header-top {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.header-bottom {
+  position: absolute;
+  top: 55px;
+  align-self: center;
+}
+
+@font-face {
+  font-family: 'FontAwesome';
+  src: url('../fonts/fontawesome-webfont.eot?v=4.2.0');
+  src: url('../fonts/fontawesome-webfont.eot?#iefix&v=4.2.0') format('embedded-opentype'), url('../fonts/fontawesome-webfont.woff?v=4.2.0') format('woff'), url('../fonts/fontawesome-webfont.ttf?v=4.2.0') format('truetype'), url('../fonts/fontawesome-webfont.svg?v=4.2.0#fontawesomeregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.copiright {
+  font-family: 'FontAwesome';
+}
+
+/*Логотип/название + телефон аварийной службы---------------------------------------------------------------------------------------*/
+.header-top {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.phone-0 {
+  background: rgb(230, 230, 230);
+  padding: 5px;
+  margin: 0px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+.phone-2 {
+  font-size: 12px;
+  text-align: left;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.abzac {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.phone{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+/*Верхнее меню-----------------------------------------------------------------------------------------------------------------------*/
+.topmenu {
+  display: flex;
+  align-items:center;
+  justify-content: center;
+  text-align: center;
+}
+.topmenu a {
+  padding: 5px;
+  color: grey;
+  font-size: 14px;
+  letter-spacing: 1px;
+}
+.topmenu li:hover {
+  background: rgb(230, 230, 230);
+}
+.topmenu a:visited {
+  color: rgb(69, 130, 169);
+}
+.poloska {
+  border-right: 2px solid;
+  border-color: grey;
+}
+
+/*Рисунок + иконки---------------------------------------------------------------------------------------------------------------*/
+.content {
+  display: flex;
+  justify-content: space-between;
+  background: url(../../image/slide.gif) no-repeat center top;
+  font-size: 14px;
+  color: aliceblue;
+  font-weight: bold;
+  padding-bottom: 20px;
+}
+
+.content-left {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  text-align: center;
+  padding: 5px;
+  margin-top: 30px;
+  margin-bottom: -30px;
+ }
+
+.content-right {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  text-align: center;
+  padding: 5px;
+  margin-left: auto;
+  margin-top: 30px;
+  margin-bottom: -30px;
+}
+
+.shine {
+  border-radius: 50px;
+}
+
+.shine:hover {
+  box-shadow: 0 0 15px #d8e9f3;
+}
+
+/*Нижняя панель списков---------------------------------------------------------------------------------------------------------------*/
+.bottom-menu {
+  display: flex;
+  font-weight: bold;
+  color: grey;
+  margin-bottom: -10px;
+}
+
+.element-1, .element-2, .element-3, .element-4 {
+  display: flex;
+  flex-direction: column;
+  width: 25%;
+}
+
+.element-1-header, .element-2-header, .element-3-header, .element-4-header {
+  background: url(../../image/fon-bottom-menu.jpg) no-repeat center center;
+  padding: 5px;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 12px;
+}
+
+.element-1-content, .element-2-content {
+  text-align: right;
+  padding-right: 20px;
+  padding-left: 0px;
+  font-size: 14px;
+  margin-top: -10px;
+}
+
+.element-3-content, .element-4-content {
+  text-align: left;
+  padding-right: 20px;
+  padding-left: 0px;
+  font-size: 14px;
+  margin-top: -10px;
+}
+
+h3 {
+  padding-left: 30px;
+}
+
+.element-4-content ul {
+  padding-left: 20px;
+  padding-right: 0px;
+}
+
+.element-3-content ul {
+  padding-left: 20px;
+  padding-right: 0px;
+}
+
+.element-1, .element-2, .element-3 {
+  border-right: 3px solid rgb(230, 230, 230);
+}
+
+.spisok li a:hover {
+  text-decoration: underline;
+}
+
+.spisok li a:visited {
+  color: rgb(69, 130, 169);
+}
+
+/*Футер-------------------------------------------------------------------------------------------------------------------------------*/
+.footer {
+  display: flex;
+  justify-content: space-between;
+  background: url(../../image/fon-footer.jpg) no-repeat center center;
+  height: 70px;
+  font-size: 12px;
+  color: aliceblue;
+  padding-bottom: 10px;
+}
+
+.spisok-footer-1, .spisok-footer-2, .spisok-footer-3 {
+  padding-left: 0px;
+}
+
+.spisok-footer-1 {
+  padding-left: 10px;
+}
+
+.spisok-footer-3 {
+  padding-right: 10px;
+}
+
+/*Выпадающее меню------------------------------------------------------------------------------------------------------------------*/
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: rgb(230, 230, 230);
+  min-width: 160px;
+  box-shadow: 10px 5px 5px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  padding: 5px;
+  display: block;
+}
+
+.dropdown-content a:hover {
+  background-color: rgb(69, 130, 169);
+  color: #ffffff;
+  text-shadow: 0 0 5px #ffffff, 0 0 10px #ffffff, 0 0 20px #ffffff, 0 0 40px #ffff00, 0 0 80px #ffff00, 0 0 90px #ffff00, 0 0 100px #ffff00, 0 0 150px #ffff00;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/*Адаптивная верстка-----------------------------------------------------------------------------------------------------------------*/
+@media screen and (max-width: 800px) {
+.element-1,.element-2,.element-3,.element-4 {
+  flex: 1 0 47%;
+  max-width: 50%;
+}
+.bottom-menu {
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.element-1-content, .element-2-content, .element-3-content, .element-4-content {
+  text-align: center;
+}
+.element-1, .element-2, .element-3, .element-4 {
+  border-right: none;
+  border: 1px solid rgb(230, 230, 230);
+}
+.phone-0 {
+ flex-direction: column;
+ box-shadow: none;
+}
+.phone-2 {
+  text-align: center;
+  font-size: 10px;
+  letter-spacing: 1px;
+}
+.content {
+  background: none;
+}
+.content {
+  background: url(../../image/slide-1.gif) no-repeat center top;
+  font-size: 11px;
+  padding-bottom: 60px;
+}
+}

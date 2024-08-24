@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.90278in" height="0.27778in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 902.78 277.78"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:red;stroke-width:29.58;stroke-miterlimit:2.61313}
+    .fil0 {fill:none}
+    .fil1 {fill:red;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2451631929200">
+   <g id="Телефонная_x0020_трубка">
+    <path class="fil0 str0" d="M93.04 230.3l12.35 12.35c28.31,28.31 74.63,28.31 102.93,0l86.35 -86.35c28.31,-28.31 28.31,-74.63 0,-102.93l-12.36 -12.35"/>
+    <line class="fil0 str0" x1="238.06" y1="85.28" x2="282.31" y2= "41.02" />
+    <line class="fil0 str0" x1="137.29" y1="186.05" x2="93.04" y2= "230.3" />
+    <rect class="fil0 str0" transform="matrix(-0.130724 -0.130725 -0.141618 0.141619 277.166 35.8719)" width="114.58" height="312.5"/>
+    <rect class="fil0 str0" transform="matrix(-0.130724 -0.130725 -0.141618 0.141619 132.14 180.899)" width="114.58" height="312.5"/>
+    <path class="fil0 str0" d="M137.29 186.05c15.07,15.07 39.73,15.07 54.8,0l45.97 -45.97c15.07,-15.07 15.07,-39.73 0,-54.8"/>
+   </g>
+   <path id="_144" class="fil1" d="M551.16 241.13l-37.57 0 0 -142.17c-13.72,12.89 -29.9,22.44 -48.55,28.62l0 -34.29c9.83,-3.2 20.48,-9.28 31.95,-18.28 11.52,-8.96 19.39,-19.43 23.68,-31.36l30.49 0 0 197.48zm130.06 0l0 -39.5 -80.09 0 0 -32.78 84.94 -124.94 31.64 0 0 124.8 24.41 0 0 32.91 -24.41 0 0 39.5 -36.48 0zm0 -72.41l0 -67.06 -44.89 67.06 44.89 0zm152.55 72.41l0 -39.5 -80.09 0 0 -32.78 84.94 -124.94 31.64 0 0 124.8 24.41 0 0 32.91 -24.41 0 0 39.5 -36.48 0zm0 -72.41l0 -67.06 -44.89 67.06 44.89 0z"/>
+  </g>
+ </g>
+</svg>

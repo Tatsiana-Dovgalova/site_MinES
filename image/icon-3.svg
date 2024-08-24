@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.694441in" height="0.694441in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 694.44 694.44"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#61BFBF;stroke-width:41.67;stroke-linecap:round;stroke-miterlimit:2.61313}
+    .fil2 {fill:none}
+    .fil3 {fill:#61BFBF}
+    .fil1 {fill:url(#id0)}
+    .fil0 {fill:url(#id1)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="108.51" y1="664.66" x2="544.58" y2="199.36">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.262745" style="stop-opacity:1; stop-color:#EAEAEA"/>
+   <stop offset="0.729412" style="stop-opacity:1; stop-color:#D4D4D4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#CCCCCC"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" xlink:href="#id0" x1="59.87" y1="169.22" x2="584.8" y2="729.35">
+  </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="Энергобезопасность">
+   <g>
+    <circle class="fil0" cx="347.22" cy="347.22" r="347.22"/>
+    <circle class="fil1" cx="347.22" cy="347.22" r="288.44"/>
+   </g>
+   <g>
+    <polygon class="fil2 str0" points="340.75,103.8 448.22,293.45 555.69,483.09 340.75,483.09 125.82,483.09 233.28,293.45 "/>
+    <polygon class="fil2 str0" points="340.75,171.21 420.24,311.48 499.72,451.75 340.75,451.75 181.78,451.75 261.27,311.48 "/>
+    <g>
+     <g>
+      <polygon class="fil3" points="324.31,434.54 354.22,410.22 384.13,385.89 347.06,391.76 328.46,362.85 326.39,398.7 "/>
+     </g>
+     <polyline class="fil2 str0" points="344.58,243.3 307.16,320.12 381.99,320.12 344.58,396.93 "/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
